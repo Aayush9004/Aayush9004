@@ -6,7 +6,7 @@
   <img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="GTO" />
 </p>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=aayush&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=aayush9004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 ### 🌟 About Me
