@@ -1,24 +1,76 @@
-<h1 align="center">Hi 👋, I'm Aayush Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://i.pinimg.com/originals/f3/6f/0b/f36f0b35c0034e886ba12b90c293c706.gif" width ="450" align="right" alt="">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush9004&label=Profile%20views&color=0e75b6&style=flat" alt="aayush9004" /> </p>
+<h1 align="center">Yoo, I'm Aayush!</h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **React native and DSA**
-
-- 📫 How to reach me **Aayushsingh9004@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/aayushsingh516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aayushsingh516" height="30" width="40" /></a>
+<p align="center">
+  <img src="" alt="GTO" />
+</p>
+<p align="center">
+     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Aayush+Singh..;Engineering+Student+;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=aayush&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+### 🌟 About Me
+I'm currently pursuing **B.Tech** at the **University of Mumbai**. Apart from my technical endeavors, I enjoy exploring new tech domains and solving real-world problems with innovative solutions. I am constantly learning and growing in my field, and I’m eager to collaborate on projects that make an impact! 🌱
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush9004&show_icons=true&locale=en&layout=compact" alt="aayush9004" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush9004&show_icons=true&locale=en" alt="aayush9004" /></p>
+### 🔭 Skills
+- **Programming Languages:** Python, C, HTML, CSS, JavaScript (currently learning React), SQL
+- **Frameworks & Libraries:** 
+- **Tools:** Git.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush9004&" alt="aayush9004" /></p>
+---
+
+### 📚 Notable Projects
+......
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 10px;"/> 
+  </a> 
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right: 10px;"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;"/> 
+  </a> 
+ 
+ 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-right: 10px;"/> 
+  </a> 
+ 
+</p>
+
+---
+
+### 🤝 Community Engagement
+I actively participate in hackathons and tech meetups, connecting with like-minded individuals to share knowledge and collaborate on projects.
+
+---
+
+### 🐍 My Contributions
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aayush-singh-4532b6292)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram)](https://instagram.com/aayushsingh516)
+[![X](https://img.shields.io/badge/X-blue?style=flat-square&logo=x)](https://x.com/)
+
+
+
+---
+### 🔢 My GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush9004&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aayush9004&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+---
+
