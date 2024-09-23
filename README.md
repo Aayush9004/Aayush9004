@@ -1,10 +1,10 @@
 <h1 align="center">Yoo, I'm Aayush!</h1>
 
 <p align="center">
-  <img src="" alt="GTO" />
-</p>
-<p align="center">
      <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Aayush+Singh..;Engineering+Student+;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+<p align="center">
+  <img src="https://media1.tenor.com/m/FdkbSvSxI9MAAAAd/chilled-lamb-mienar.gif" alt="GTO" />
+</p>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aayush&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
